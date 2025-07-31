@@ -7,6 +7,7 @@
   "content_scripts": [
     {
       "matches": [
+        "https://www.wanikani.com/dashboard*",
         "https://www.wanikani.com/subjects/review*",
         "https://www.wanikani.com/subjects/extra_study*"
       ],
